@@ -13,9 +13,11 @@ This study explores the integration of Hadoop, Apache Spark and deep learning te
 
 
 
-- The importance of Tourism in Ireland 
+- The importance of Tourism in Ireland
+
 This project aims to analyse the factors influencing Irelands tourism sector from 2012 to 2019 using a combination of descriptive statistics and various regression models, including Linear, Ridge and Lasso regression as well as Decision Tree Regressor. By examining data such as flight arrivals and tourist expenditure, relevant distributions were applied such as Poisson, Binomial and normal distribution to better understand the data and make accurate predictions on visitor behaviour and predict tourism trends. The ML models are evaluated using appropriate metrics such as MAE, MSE and R-squared values. Each of the regression algorithms were trained with 80% of the data, using 5-fold cross validation, and the remaining 20%  was used for testing the model. 
 
-- Harnessing Data and Statistics to Drive innovation and sustainability in Irish Agriculture 
+- Harnessing Data and Statistics to Drive innovation and sustainability in Irish Agriculture
+
 This study evaluates the performance of various machine learning models applied to classification and regression tasks, with a focus on hyperparameter optimisation and model evaluation metrics. Using data with imbalanced class distribution was addressed by using SMOTE, achieving balanced target classes. 
 Grid search was employed to identify the best parameters for models used, Logistic Regression, Decision tree, Random Forest, KNN and others. Performance metrics such as accuracy, precision, recall, Cohens Kappa and r2 were calculated to assess model efficiency. KNN and Random Forest outperformed all other models in regression tasks with 0.88 and 0.94 r2respectively, residuals were then plotted. While Multinomial NB and Logistic Regression demonstrated competitive accuracy in Classification with 0.59 and 0.58 CV accuracy respectively . Hypothesis tests were conducted for the output yield of major European countries against Irelands yield, these tests were evaluated with appropriate metrics such as Cohens D, and the power of a test.
