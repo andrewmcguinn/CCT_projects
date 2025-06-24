@@ -14,8 +14,7 @@ This study explores the integration of Hadoop, Apache Spark and deep learning te
 
 
 - The importance of Tourism in Ireland 
-•	Conducted statistical analysis on Irish tourism data (2012–2019) using Poisson, Binomial, and Normal distributions to uncover trends in visitor behaviour and expenditure; developed predictive models with Linear and Decision Tree regression.
-
+This project aims to analyse the factors influencing Irelands tourism sector from 2012 to 2019 using a combination of descriptive statistics and various regression models, including Linear, Ridge and Lasso regression as well as Decision Tree Regressor. By examining data such as flight arrivals and tourist expenditure, relevant distributions were applied such as Poisson, Binomial and normal distribution to better understand the data and make accurate predictions on visitor behaviour and predict tourism trends. The ML models are evaluated using appropriate metrics such as MAE, MSE and R-squared values. Each of the regression algorithms were trained with 80% of the data, using 5-fold cross validation, and the remaining 20%  was used for testing the model. 
 
 - Harnessing Data and Statistics to Drive innovation and sustainability in Irish Agriculture 
 •	Performed statistical analysis on EU and Irish agricultural datasets to assess Common Agricultural Policy (CAP) impacts using descriptive statistics, regression, and classification; identified trends in yield, land use, and employment, and visualized results via a Streamlit dashboard.
